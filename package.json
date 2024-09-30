@@ -1,0 +1,16 @@
+{
+  "name": "36_aaa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "api-spec-converter": "^2.12.0",
+    "swagger2openapi": "^7.0.8"
+  }
+}
