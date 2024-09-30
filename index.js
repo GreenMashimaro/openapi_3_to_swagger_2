@@ -5,7 +5,7 @@ const fs = require('fs');
 converter.convert({
   from: 'openapi_3',
   to: 'swagger_2',
-  source: '', // 'http://openai3.json'
+  source: '', // 'http://openapi3.json'
 }, function(err, converted) {
   if (err) {
     console.error('转换错误:', err);
